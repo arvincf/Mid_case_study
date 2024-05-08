@@ -29,7 +29,7 @@
 </nav>
 
 <div class="container mt-4">
-    @yield('content') 
+    <!-- @yield('content') is used to display the content of the current view -->
 </div>
 
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
